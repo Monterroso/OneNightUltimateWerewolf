@@ -1,0 +1,40 @@
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Firefly One Night Ultimate Werewolf.exe.config
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\obj\Debug\Firefly One Night Ultimate Werewolf.csprojResolveAssemblyReference.cache
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Firefly One Night Ultimate Werewolf.exe
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Firefly One Night Ultimate Werewolf.pdb
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Discord.Net.Commands.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Discord.Net.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Discord.Net.Modules.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Nito.AsyncEx.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\RestSharp.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\WebSocket4Net.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Nito.AsyncEx.xml
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\RestSharp.xml
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\obj\Debug\Firefly One Night Ultimate Werewolf.exe
+C:\Users\marcu\OneDrive\Fun Stuff\Stories\Fantasy Stories\Honolee\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\obj\Debug\Firefly One Night Ultimate Werewolf.pdb
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Firefly One Night Ultimate Werewolf.exe.config
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\obj\Debug\Firefly One Night Ultimate Werewolf.exe
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\obj\Debug\Firefly One Night Ultimate Werewolf.pdb
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Firefly One Night Ultimate Werewolf.exe
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Firefly One Night Ultimate Werewolf.pdb
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Discord.Net.Commands.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Discord.Net.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Discord.Net.Modules.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Nito.AsyncEx.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\RestSharp.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\WebSocket4Net.dll
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Nito.AsyncEx.xml
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\bin\Debug\RestSharp.xml
+C:\Users\marcu\OneDrive\Fun Stuff\Code Endeavours\Firefly One Night Ultimate Werewolf\Firefly One Night Ultimate Werewolf\obj\Debug\Firefly One Night Ultimate Werewolf.csprojResolveAssemblyReference.cache
